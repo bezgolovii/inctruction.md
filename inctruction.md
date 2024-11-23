@@ -52,10 +52,7 @@ git branch
 ```sh
 git checkout branch_new_1
 ```
- Переключение производим командой:
- ```sh
- git branch branch_new_1
- ```
+
  Обязательно проверьте что переключились
 
  На выходе должно выглядеть так:
@@ -63,4 +60,3 @@ git checkout branch_new_1
  * branch_new_1
    master
  ```
- 
