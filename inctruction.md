@@ -60,3 +60,20 @@ git checkout branch_new_1
  * branch_new_1
    master
  ```
+## Слияние веток
+
+Прежде чем начать слияние необходимо переключиться на основновную ветку документа master, как описано выше, затем вводим команду:
+```sh
+git merge branch_new_1
+```
+Усли все верно сделали у Вас высветится следующее сообщение:
+```
+PS C:\Users\User\OneDrive\Desktop\git01> git merge branch_new_1
+Updating cf0361e..e309985
+Fast-forward
+ inctruction.md | 30 ++++++++++++++++++++++++++++++
+ 1 file changed, 30 insertions(+)
+PS C:\Users\User\OneDrive\Desktop\git01>
+```
+
+
