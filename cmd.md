@@ -28,3 +28,7 @@ del <filename>
 ```sh
 rm <filename>
 ```
+Отобржение всех веток
+```sh
+git branch 
+```
