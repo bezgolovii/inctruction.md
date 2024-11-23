@@ -32,3 +32,7 @@ rm <filename>
 ```sh
 git branch 
 ```
+Перемещение по веткам
+```sh
+git checkout <Имя ветки>
+```
